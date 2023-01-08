@@ -8,7 +8,7 @@ Using our refactored code, we improved the time it takes for the code to run. Pl
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118011002/211222717-27d44a81-4ee8-479f-8dd1-9a56613b024b.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/118011002/211222720-eeddf274-f4b5-490a-a2e6-8a438220cbc3.png)
 
-#Pro 
+# Pro 
 By Refactoring the code, we can break the code down to make it easier to run and for others to understand. This can come in handy when you are working in a large team.
 
 # CON
